@@ -30,6 +30,7 @@
             app:keyLabel="6"
             app:keyWidth="25%p" />
         <Key
+            app:keyLabel="-"
             app:keyEdgeFlags="right"
             app:keyWidth="25%p" />
     </Row>
@@ -45,8 +46,8 @@
             app:keyLabel="9"
             app:keyWidth="25%p" />
         <Key
-            app:keyLabel="abc"
-            app:code="-2"
+            app:keyIcon="@drawable/ic_space_bar_vector"
+            app:code="32"
             app:keyEdgeFlags="right"
             app:keyWidth="25%p" />
     </Row>
